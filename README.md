@@ -1,3 +1,3 @@
 # Datasheet
 
-Dataset preso da https://www.kaggle.com/datasets/huseyincenik/as24-cars?resource=download
+Dataset preso da https://www.kaggle.com/datasets/warcoder/pc-parts
